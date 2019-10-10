@@ -14,4 +14,8 @@ asdfasd
 444444
 11111
 
-modify the master file
+<<<<<<< HEAD
+Create a new branch featurel
+=======
+Create a new branch featurel
+>>>>>>> featurel
